@@ -1,0 +1,14 @@
+pyyaml
+tqdm
+tensorboardX
+scikit-learn
+ogb
+numpy
+seaborn
+scipy
+networkx
+pytorch-lightning[extra]
+igraph
+wwl
+jsonargparse[signatures]
+lshashpy3
